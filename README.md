@@ -1,6 +1,6 @@
 # expense_tracker
 
-A new Flutter project.
+A new Flutter project on tracking expense no localstorage used no data will not be stored. Weekly BarChart and DatePicker with Message to add.
 
 ## Getting Started
 
