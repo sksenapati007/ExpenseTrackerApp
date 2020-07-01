@@ -2,7 +2,14 @@
 
 A new Flutter project on tracking expense no localstorage used no data will not be stored. Weekly BarChart and DatePicker with Message to add.
 
-![screenshot](https://github.com/sksenapati007/ExpenseTrackerApp/blob/master/Expense%20Tracker%20ScreenShot.png)
+![main_page](https://github.com/sksenapati007/ExpenseTrackerApp/blob/master/Expense%20Tracker%20ScreenShot.png)
+
+
+![date_picker](https://github.com/sksenapati007/ExpenseTrackerApp/blob/master/Expense Tracker ScreenShot_1.png)
+
+![transaction_add](https://github.com/sksenapati007/ExpenseTrackerApp/blob/master/Expense Tracker ScreenShot_2.png)
+
+
 
 ## Getting Started
 
