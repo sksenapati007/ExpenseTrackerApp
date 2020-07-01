@@ -2,6 +2,8 @@
 
 A new Flutter project on tracking expense no localstorage used no data will not be stored. Weekly BarChart and DatePicker with Message to add.
 
+![screenshot](Expense Tracker ScreenShot.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
